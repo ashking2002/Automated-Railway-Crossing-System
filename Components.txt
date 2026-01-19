@@ -1,0 +1,7 @@
+1. Male to Male Jumper Wire set
+2. Male to Female Jumper Wire set
+3. Arduino UNO board
+4. Arduino USB 2.0 CABLE TYPE A/B
+5. Infrared (IR) sensor
+6. Piezo speaker
+
